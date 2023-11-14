@@ -1,5 +1,5 @@
 // **Credits**
-// repository 
+// repository https://github.com/Glouwhy/CodeGrab
 // Based on https://greasyfork.org/en/scripts/463493-openai-chat-copy-code-button
 
 'use strict';
