@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "name": "CodeGrab",
+  "version": "0.1",
+  "description": "Integrate a 'Copy Code' button into code blocks on chat.openai.com to enhance user convenience when copying code snippets.",
+  "permissions": [
+    "clipboardWrite",
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://chat.openai.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "icon16.png",
+        "icon48.png",
+        "icon128.png"
+      ],
+      "matches": [
+        "https://chat.openai.com/*"
+      ]
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icon16.png"
+    }
+  },
+  "content_security_policy": {}
+}
