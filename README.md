@@ -3,6 +3,8 @@
 # CodeGrab
 CodeGrab is a project aimed at improving user convenience on _[ChatGPT](https://chat.openai.com)_ by integrating a 'Copy Code' button into code blocks. This enhancement will streamline the process of copying code snippets, making it easier for users to utilize and share code within the OpenAI chat platform.
 
+[![Python Example](https://github.com/Glouwhy/CodeGrab/raw/main/imgs/py-example.gif)
+
 
 ## Extension Installation Tutorial
 
