@@ -58,7 +58,7 @@ After loading the extension, you should see the CodeGrab icon in your browser's 
 
 ## 7. Test on chat.openai.com
 
-Visit chat.openai.com and navigate to a conversation with code blocks. You should now see a 'Copy Code' button within each code block.
+Visit _[ChatGPT](https://chat.openai.com)_ and navigate to a conversation with code blocks. You should now see a 'Copy Code' button within each code block.
 
 
 ## Uninstalling CodeGrab Extension
