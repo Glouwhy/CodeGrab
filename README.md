@@ -11,7 +11,7 @@ CodeGrab is a project aimed at improving user convenience on _[ChatGPT](https://
 
 ### 1. Download CodeGrab
 
-On the official _[CodeGrab GitHub Repository](https://github.com/yourusername/codegrab)_
+On the official _[CodeGrab GitHub Repository](https://github.com/glouwhy/codegrab)_
 
 Click on the "Code" button and select "Download ZIP" to download the extension files to your computer.
 
