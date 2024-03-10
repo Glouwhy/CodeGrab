@@ -4,8 +4,7 @@
   "version": "0.1",
   "description": "Integrate a 'Copy Code' button into code blocks on chat.openai.com to enhance user convenience when copying code snippets.",
   "permissions": [
-    "clipboardWrite",
-    "storage"
+    "clipboardWrite"
   ],
   "content_scripts": [
     {
