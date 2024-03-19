@@ -18,7 +18,7 @@ Available in [Edge-AddOn](https://microsoftedge.microsoft.com/addons/detail/code
 
 ### 1. Download CodeGrab
 
-On The _[GitHub Repository](https://github.com/glouwhy/codegrab)_ , click on the "Code" button and select "Download ZIP".
+On The _[GitHub Repository](https://github.com/j-zunino/CodeGrab)_ , click on the "Code" button and select "Download ZIP".
 
 ## 2. Extract the files
 
